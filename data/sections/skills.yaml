@@ -1,0 +1,43 @@
+# section information
+section:
+  name: Skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: Java
+  icon: "images/skills/java.png"
+  summary: "Intermediate experience with Java for use in AP Computer Science A and competitive progamming."
+
+- name: Python
+  icon: "images/skills/python.png"
+  summary: "Used occasionally to create basic sites/applications."
+
+- name: C#
+  icon: "images/skills/c-sharp.svg"
+  summary: "First language that I built all of my first projects on. Switched mainly to Java to prepare for the AP Test."
+
+- name: Linux and Bash
+  icon: "images/skills/linux.png"
+  summary: "Daily user of Linux. Proficient in the command line as well as on the desktop."
+
+- name: Git
+  icon: "images/skills/git.png"
+  summary: "Experienced with git-based development. Mostly use my [selfhosted GitLab Instace](https://dev.madaffri.com/ATMTech), but I also have experience with GitHub."
+
+- name: Docker
+  icon: "images/skills/docker.svg"
+  summary: "Basic experience provisioning and maintaining containers."
+
+- name: Virtualization
+  icon: "images/skills/virtualization.png"
+  summary: "Experince with KVM and QEMU on Proxmox and Debian."
+
+- name: Managing Server Infrastructure
+  icon: "images/skills/servers.png"
+  summary: "Running a home server powered by Proxmox, FreeNAS, and ZFS."
