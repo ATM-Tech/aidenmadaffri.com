@@ -1,0 +1,64 @@
+# section information
+section:
+  name: About
+  enable: true
+  weight: 1
+  showOnNavbar: true
+
+# your designation
+designation: High School Sophomore
+# your company information
+company:
+  name: Memorial High School (Houston, TX)
+  url: "https://mhs.springbranchisd.com/"
+
+# your resume. this file path should be relative to you "static" directory
+resume: "files/resume.pdf"
+
+# a summary about you
+summary: 'I an a driven student with a passion to do the hard things in life. I have been learning about technology all my life, learning many languages and technologies. I am also a leader and good teammate in my long life extracurriclars of swimming and choir.'
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "contact@aidenmadaffri.com"
+
+- name: Gitlab
+  icon: "fab fa-gitlab"
+  url: "https://dev.madaffri.com/ATMTech"
+
+- name: Twitter
+  icon: "fab fa-twitter"
+  url: "https://twitter.com/AidenMadaffri"
+
+# your soft skills
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported colors: blue, yellow, pink, green, sky, orange
+softSkills:
+- name: Hard Working
+  percentage: 95
+  color: blue
+- name: Fast Learner
+  percentage: 95
+  color: yellow
+- name: Problem Solving
+  percentage: 95
+  color: pink
+- name: Communication
+  percentage: 90
+  color: green
+- name: Team Work
+  percentage: 90
+  color: sky
+- name: Leadership
+  percentage: 85
+  color: orange
+# you can also provide color code instead of pre-defined color name
+# - name: Example 1
+#   percentage: 75
+#   color: "#00adb5"
+# - name: Example 2
+#   percentage: 65
+#   color: "#8b8383"
