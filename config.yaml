@@ -13,7 +13,7 @@ markup:
 googleAnalytics: UA-xxxxxxxx
 
 # Enable Disqus forum
-disqusShortname: does-not-exist
+disqusShortname: aidenmadaffri
 
 # Enable global emoji support
 enableEmoji: true
