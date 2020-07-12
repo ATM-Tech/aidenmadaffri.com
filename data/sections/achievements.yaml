@@ -1,0 +1,21 @@
+# section information
+section:
+  name: Achievements
+  enable: true
+  weight: 6
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your achievements
+achievements:
+- title: Academic All District Swimmer 2019-2020
+  image: images/achievements/thsca.jpg
+  summary: Swam with the varsity swim team while maintaining a GPA of at least 3.8 on a 4.0 scale.
+- title: Choir Outstanding Freshman
+  image: images/achievements/choir.jpg
+  summary: Awarded to a freshman with huge achievements and dedication to the Choir.
+- title: Made the TMEA Region 27 All-Region Choir
+  # Change image to letterjacket patch
+  image: images/achievements/tmea.jpg
+  summary: Made 9th chair out of 12, moving on to the Pre-Area auditions.

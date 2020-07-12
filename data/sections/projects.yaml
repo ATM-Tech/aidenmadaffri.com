@@ -1,0 +1,39 @@
+# section information
+section:
+  name: Projects
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# filter buttons
+buttons:
+- name: All
+  filter: "all"
+
+# your projects
+projects:
+- name: Selfhosted GitLab Instance
+  logo: images/projects/gitlab.png
+  role: Owner
+  timeline: "May 2020 - Present"
+  url: https://dev.madaffri.com/
+  summary: "GitLab Instance where I host all [my projects](https://dev.madaffri.com/ATMTech)."
+  tags: ["hobby"]
+
+- name: Steam Game Recommendations Website
+  logo: images/projects/steam.png
+  role: Owner
+  timeline: "Jun 2020 - Present"
+  url: https://dev.madaffri.com/ATMTech/gamerecs
+  summary: "A simple django website that I have set up to show my list of game recommendations. It automatically updates game information using the Steam Store API and shows each game in its respective genres ranked based on its price and my rating of it."
+  tags: ["hobby"]
+
+- name: Linux Configuration (dotfiles)
+  logo: images/projects/linux.png
+  role: Owner
+  timeline: "Jul 2019 - Present"
+  url: https://dev.madaffri.com/ATMTech/dotfiles
+  summary: "A repo containing the dotfiles I use for my daily linux setup. Configurations include: DWM (a tiling window manager), my GTK theme, ZSH (my choice of shell), vim (my choice of editor), various personal scripts and more."
+  tags: ["hobby"]
