@@ -14,7 +14,7 @@ markup:
     ordered: false
 
 # Enable Google Analytics
-googleAnalytics: UA-xxxxxxxx
+googleAnalytics: UA-174361281-1
 
 # Enable Disqus forum
 disqusShortname: aidenmadaffri
