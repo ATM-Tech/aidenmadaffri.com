@@ -27,6 +27,9 @@ params:
   # copyright
   copyright: © 2020 Copyright.
 
+  # Meta description for your site.  This will help the search engines to find your site.
+  description: Portfolio and personal blog of Aiden Madaffri.
+
   # background image of the landing page
   background: "images/background.jpg"
 
@@ -39,7 +42,7 @@ params:
     favicon: /images/favicon.png
 
   # GitHub repo URL of your site
-  gitRepo: https://dev.madaffri.com/ATMTech/aidenmadaffr.com
+  gitRepo: https://dev.madaffri.com/ATMTech/aidenmadaffri.com
 
   # specify whether you want to write blog post or not
   enableBlogPost: true
