@@ -36,6 +36,7 @@ params:
   logo:
     main: /images/main-logo.png
     inverted: /images/main-logo.png
+    favicon: /images/favicon.png
 
   # GitHub repo URL of your site
   gitRepo: https://dev.madaffri.com/ATMTech/aidenmadaffr.com
