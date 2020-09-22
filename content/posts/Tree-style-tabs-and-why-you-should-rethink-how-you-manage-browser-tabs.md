@@ -1,6 +1,6 @@
 ---
 title: "Tree Style Tabs: And Why You Should Rethink How You Manage Browser Tabs"
-date: 2020-09-01T00:00:00-05:00
+date: 2020-10-01T00:00:00-05:00
 draft: false
 author:
     name: Aiden Madaffri
