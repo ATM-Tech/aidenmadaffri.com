@@ -1,6 +1,6 @@
 ---
 title: "I Didn't Use the Internet for 7 Days, Here's What I Found Out"
-date: 2020-08-30T19:30:11-05:00
+date: 2020-09-01T00:00:00-05:00
 author:
     name: Aiden Madaffri
     image: /images/avatar.png
