@@ -24,12 +24,6 @@ enableEmoji: true
 
 # Custom parameters
 params:
-  # copyright
-  copyright: © 2020 Copyright.
-
-  # Meta description for your site.  This will help the search engines to find your site.
-  description: Portfolio and personal blog of Aiden Madaffri.
-
   # background image of the landing page
   background: "images/background.jpg"
 
@@ -50,25 +44,8 @@ params:
   # specify whether you want to show Table of Contents in reading page
   enableTOC: true
 
-  # specify the list of custom menus that you want to show in the top navbar.
-  # they will be separated by a divider from the main menus.
-  #customMenus:
-
   # Provide newsletter configuration. This feature hasn't been implemented yet.
   # Currently, you can just hide it from the footer.
   newsletter:
     enable: false
 
-  # some information about you
-  author:
-    name: "Aiden Madaffri"
-    image: "images/avatar.png"
-    # give your some contact information. they will be used in the footer
-    contactInfo:
-      email: "contact@aidenmadaffri.com"
-      phone: "+1 (713) 293-2008"
-    # a summary of what you do
-    summary:
-    - I am a Developer
-    - I am a Swimmer
-    - I am a hard worker
