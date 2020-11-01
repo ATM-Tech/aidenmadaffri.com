@@ -27,11 +27,11 @@ To truly understand the faults of QWERTY, you must first understand its history.
 
 ![QWERTY Layout](https://upload.wikimedia.org/wikipedia/commons/d/da/KB_United_States.svg)
 
-QWERTY was developed in the 1870's by Christopher Latham Sholes and E. Remington and Sons (Company) for typewriters. The layout would become popular after the popularity of the Remington No. 2 of 1878 and remains almost universal today. QWERTY went through several iterations before landing on the layout we know today but several problems guided the creation.
+QWERTY was developed in the 1870s by Christopher Latham Sholes and E. Remington and Sons (Company) for typewriters. The layout would become popular after the popularity of the Remington No. 2 of 1878 and remains almost universal today. QWERTY went through several iterations before landing on the layout we know today but several problems guided the creation.
 
-Initially the alphabet was essentially laid out alphabetically on the typewriter, but this caused an issue. Due to the nature of a typewriter, the machine would often jam due to the arms next to each other clashing against each other when pressed in succession. This was fixed by analysing the frequency of bigrams (letter-pairs) and placing each letter as far away as possible from ones likely to be pressed next.
+Initially, the alphabet was essentially laid out alphabetically on the typewriter, but this caused an issue. Due to the nature of a typewriter, the machine would often jam due to the arms next to each other clashing against each other when pressed in succession. This was fixed by analyzing the frequency of bigrams (letter-pairs) and placing each letter as far away as possible from ones likely to be pressed next.
 
-The order of the letters in the top row is also completely arbitrary, and its only guiding principle was the ability to spell &ldquo;TYPEWRITER&rdquo; in one row. This would allow salesman to better show off the new device.
+The order of the letters in the top row is also completely arbitrary, and its only guiding principle was the ability to spell &ldquo;TYPEWRITER&rdquo; in one row. This would allow salesmen to better show off the new device.
 
 
 <a id="orgbe9cd76"></a>
@@ -79,14 +79,14 @@ I will briefly go over each one
 
 ## Flaws of Colemak
 
-Alternatives to Colemak have been developed due to some flaws in its placement of certain bigrams. One such is the [Workman layout](https://workmanlayout.org/) which claims to improve on Colemak by making the &rsquo;HE&rsquo; bigram (the second most common in the English language) less straining on your hands. However, Workman is very different from Colemak, changing 21 keys instead of 17 and changing the location of common shortcuts. This &rsquo;HE&rsquo; bigram was quite annoying to me on default Colemak though and I wanted to find a solution. I switched to minor variation of Colemak called [Mod-DH](https://colemakmods.github.io/mod-dh/) which seeks to solve this problem. I will not being going in depth about the mod in this post as I feel like the thoughts below describe both layouts well.
+Alternatives to Colemak have been developed due to some flaws in its placement of certain bigrams. One such is the [Workman layout](https://workmanlayout.org/) which claims to improve on Colemak by making the &rsquo;HE&rsquo; bigram (the second most common in the English language) less straining on your hands. However, Workman is very different from Colemak, changing 21 keys instead of 17 and changing the location of common shortcuts. This &rsquo;HE&rsquo; bigram was quite annoying to me on default Colemak though and I wanted to find a solution. I switched to a minor variation of Colemak called [Mod-DH](https://colemakmods.github.io/mod-dh/) which seeks to solve this problem. I will not be going in-depth about the mod in this post as I feel like the thoughts below describe both layouts well.
 
 
 <a id="orgdba622a"></a>
 
 ## Why I Switched
 
-I am very interested in technology and thus spend a lot of time at my desk typing (especially during the COVID-19 quarantine). A couple of weeks before my switch, I began to notice symptoms of CTS (Carpal tunnel syndrome) and RSI (Repetitive strain injury). I knew that I still had many years of sitting at a desk and knew I needed to make a drastic change in order to save my hands from irreversible damage.
+I am very interested in technology and thus spend a lot of time at my desk typing (especially during the COVID-19 quarantine). A couple of weeks before my switch, I began to notice symptoms of CTS (Carpal tunnel syndrome) and RSI (Repetitive strain injury). I knew that I still had many years of sitting at a desk and knew I needed to make a drastic change to save my hands from irreversible damage.
 
 
 <a id="org7e662bf"></a>
@@ -100,7 +100,7 @@ I chose a rather hard path to relearn typing. Instead of just practicing Colemak
 
 #### Week 1
 
-Having used computers all my life, I can&rsquo;t even began to describe how hard using one was at the time. Even basic things like searching for a program on your computer became a 15 second task. Every single key press was conscious. Instead of thinking of each word I was typing, I had to think about each individual letter and where it was located on the keyboard. By the end of the week I was able to get up to 25 WPM, but my muscle memory had not yet set in. At the same time, my QWERTY speed had crashed as my memory readjusted.
+Having used computers all my life, I can&rsquo;t even began to describe how hard using one was at the time. Even basic things like searching for a program on your computer became a 15-second task. Every single keypress was conscious. Instead of thinking of each word I was typing, I had to think about each individual letter and where it was located on the keyboard. By the end of the week, I was able to get up to 25 WPM, but my muscle memory had not yet set in. At the same time, my QWERTY speed had crashed as my memory readjusted.
 
 
 <a id="orgf08c76c"></a>
@@ -114,7 +114,7 @@ Fortunately, the helpless stage did not last very long. By this time, I was maki
 
 #### Week 4-5
 
-After about a month, I would say my transition was almost over. I was up to a very comfortable typing speed (70 WPM) on Colemak, and was able to reclaim my QWERTY speed as well. My speed does still increase slowly, so I&rsquo;m excited to see if I soon pass my previous top speed.
+After about a month, I would say my transition was almost over. I was up to a very comfortable typing speed (70 WPM) on Colemak and was able to reclaim my QWERTY speed as well. My speed does still increase slowly, so I&rsquo;m excited to see if I soon pass my previous top speed.
 
 
 <a id="org6d13822"></a>
@@ -128,7 +128,7 @@ During my journey, I used two main websites to learn the layout. First, I used [
 
 ## Should I Use Colemak?
 
-This is a question only you can answer. However I think their are some criteria. If you plan to be typing regularly per day, you are at higher risk for RSI and CTS and might be thankful you switched before these conditions had time to take effect. And while I can&rsquo;t make a conclusion yet, I believe that in the long run Colemak allows for a faster overall typing speed, which might be very useful to certain professions and tasks.
+This is a question only you can answer. However, I think there are some criteria. If you plan to be typing regularly per day, you are at higher risk for RSI and CTS and might be thankful you switched before these conditions had time to take effect. And while I can&rsquo;t conclude yet, I believe that in the long run, Colemak allows for a faster overall typing speed, which might be very useful to certain professions and tasks.
 
 
 <a id="org5a02ba1"></a>
@@ -140,7 +140,7 @@ This is a question only you can answer. However I think their are some criteria.
 
 #### How long will it take me to learn?
 
-Unfortunately this question has no real answer as it will be different for everyone. There are many factors such as the amount of practicing, current typing technique, and how fast you generally learn (age could be a cause of this). In my example, I switched completely cold turkey, with bad typing habits, while practicing 3-4 hours a day, and it took me about a month to reach 75% of my previous top speed.
+Unfortunately, this question has no real answer as it will be different for everyone. There are many factors such as the amount of practicing, current typing technique, and how fast you generally learn (age could be a cause of this). In my example, I switched completely cold turkey, with bad typing habits, while practicing 3-4 hours a day, and it took me about a month to reach 75% of my previous top speed.
 
 
 <a id="orgf9a2caa"></a>
@@ -170,12 +170,12 @@ According to [colemak.com](https://colemak.com/), &ldquo;Colemak isn&rsquo;t rec
 
 #### Should I change my keycaps or print out labels?
 
-While you can, this might impeed your progess instead of aid it. This may allow you to rely on looking down at the keyboard instead of purely memorizing the positions of the keys.
+While you can, this might impede your progress instead of aid it. This may allow you to rely on looking down at the keyboard instead of purely memorizing the positions of the keys.
 
 
 <a id="orgf0d4d5a"></a>
 
-#### What about keyboard driven editors like Vi(m)?
+#### What about keyboard-driven editors like Vi(m)?
 
 Take my answer with a grain of salt as I have only used Vim for about a year now, but I found that my memorization of editor commands was based on their mnemonic rather than their position (e.x. &rsquo;w&rsquo; for next word), so changing to Colemak did not impact most editor commands for me.
 

@@ -19,7 +19,7 @@ Tree Style Tabs are an alternative way to view and manage your tabs powered by b
 
 ![TST Tabs](/images/posts/TST/TSTTabs.png)
 
-This allows you to see which tabs came from other tabs. For example, in the picture above I could see a path of the tabs from both the feature and bug of the application I was working on. As compared to normal browser tabs (as demonstrated above), I am able to clearly see what tabs spawned from each other, not having to lose precious time to sort through them. In addition, I could middle click on the close button for a parent tab and close its entire tree. This will allow me to easily clean up my browser tabs after I fix that bug.
+This allows you to see which tabs came from other tabs. For example, in the picture above I could see a path of the tabs from both the feature and bug of the application I was working on. As compared to normal browser tabs (as demonstrated above), I can clearly see what tabs spawned from each other, not having to lose precious time to sort through them. In addition, I could middle-click on the close button for a parent tab and close its entire tree. This will allow me to easily clean up my browser tabs after I fix that bug.
 
 
 <a id="org29aa126"></a>
@@ -33,14 +33,14 @@ In my opinion, these tabs should be a better way of organization for nearly ever
 
 ## Availability
 
-Unfortunately, tabs are a rather integral part of the browser, and most browsers do not include TST by default. Currently no Chromium-based browsers like Google Chrome, Brave, Vivaldi, or Microsoft Edge support this feature. There are extensions for these browsers that claim to implement the technology, but in my testing, none of them provided a seamless, usable experience out of the box. While Firefox also doesn&rsquo;t support this feature out of the box, the [Tree Style Tab](https://addons.mozilla.org/en-US/firefox/addon/tree-style-tab/) add-on by GitHub user [piroor](https://github.com/piroor) gives a solid experience with this new tab style.
+Unfortunately, tabs are a rather integral part of the browser, and most browsers do not include TST by default. Currently, [no](no) Chromium-based browsers like Google Chrome, Brave, Vivaldi, or Microsoft Edge support this feature. There are extensions for these browsers that claim to implement the technology, but in my testing, none of them provided a seamless, usable experience out of the box. While Firefox also doesn&rsquo;t support this feature out of the box, the [Tree Style Tab](https://addons.mozilla.org/en-US/firefox/addon/tree-style-tab/) add-on by GitHub user [piroor](https://github.com/piroor) gives a solid experience with this new tab style.
 
 
 <a id="org6b6964a"></a>
 
 ## Configuration
 
-Even after installing this add-on, you will find that the original horizontal tab bar is still present. Firefox fortunately allows you to configure custom CSS for the browser to get rid of it. Steps for changing this behavior are below
+Even after installing this add-on, you will find that the original horizontal tab bar is still present. Firefox, fortunately, allows you to configure custom CSS for the browser to get rid of it. Steps for changing this behavior are below
 
 
 <a id="org390b1a9"></a>
@@ -143,13 +143,13 @@ It should be noted that you may need to modify the variables in `:root` based on
 
 #### Credit
 
-I have adopted this configuration from [/u/infogulch](https://www.reddit.com/user/infogulch) on Reddit in his [post](https://www.reddit.com/r/FirefoxCSS/comments/bhtba7/minimal_tree_tabs/) where he details his setup. For more detailed configuration instructions and description, you should head there.
+I have adopted this configuration from [/u/infogulch](https://www.reddit.com/user/infogulch) on Reddit in his [post](https://www.reddit.com/r/FirefoxCSS/comments/bhtba7/minimal_tree_tabs/) where he details his setup. For more detailed configuration instructions and descriptions, you should head there.
 
 
 <a id="org57d3b17"></a>
 
 ## Conclusion
 
-Tree Style Tabs are a new technology I began to use that I now wonder how I lived without. For being such an essential tool, why should my browser tabs not provide me with as much organization as possible. I would highly recommend anyone who feels like their tabs could use organization to try out TST. You might find that it changes how you use your browser.
+Tree Style Tabs are a new technology I began to use that I now wonder how I lived without. For being such an essential tool, why should my browser tabs not provide me with as much organization as possible? I would highly recommend anyone who feels like their tabs could use more structured organization to try out TST. You might find that it changes how you use your browser.
 
 
