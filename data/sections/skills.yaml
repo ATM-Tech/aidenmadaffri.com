@@ -29,7 +29,7 @@ skills:
 
 - name: Git
   icon: "images/skills/git.png"
-  summary: "Experienced with git-based development. Mostly use my [selfhosted GitLab Instace](https://dev.madaffri.com/ATMTech), but I also have experience with GitHub."
+  summary: "Experienced with git-based development. Mostly use my self-hosted GitLab instance, but I also have experience with GitHub."
 
 - name: Docker
   icon: "images/skills/docker.svg"
